@@ -1,5 +1,5 @@
 ---
-title: "Kimiafarma - Big Data Analytics"
+title: "Kimia Farma - Big Data Analytics"
 toc: false
 ---
 
@@ -38,8 +38,7 @@ sticky_style <- list(backgroundColor = "#f7f7f7")
 reactable(df_bda_kimiafarma_clean, wrap = FALSE,
   resizable = TRUE,
   bordered = TRUE,
-  defaultSorted = list(`Batch VIX` = "asc",
-                       `State` = "asc",
+  defaultSorted = list(`State` = "asc",
                        `Total Score` = "desc", 
                        `Total Time (hour)` = "asc"),
   filterable = TRUE, 

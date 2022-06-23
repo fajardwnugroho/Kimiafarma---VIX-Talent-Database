@@ -1,8 +1,8 @@
 ---
-title: "Kimiafarma - Big Data Analytics"
+title: "Kimia Farma - Big Data Analytics"
 toc: false
 ---
 
 ## Program :
 
-1.  [Business Intelligence Analyst](https://bank-muamalat-vix-talent-database.netlify.app/bi.html "Business Intelligence Analyst")
+1.  [Big Data Analytics](https://kimia-farma-vix-talent-database.netlify.app/bda.html "Big Data Analytics")
